@@ -1,0 +1,40 @@
+{
+  "name": "crypto-forest-analyzer",
+  "version": "1.0.0",
+  "description": "Analyzes cryptographic data within digital forests, enhancing security and ecological insights.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/crypto-forest-analyzer"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "pixel-potion-creator": "1.0.0",
+    "quantum-dream-simulator": "1.0.0",
+    "mysql": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "underscore": "1.0.0",
+    "socket.io": "1.0.0",
+    "moment": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "debug": "1.0.0",
+    "request": "1.0.0",
+    "commander": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "redux": "1.0.0",
+    "react-redux": "1.0.0",
+    "express": "1.0.0",
+    "bcrypt": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "sinon": "1.0.0",
+    "cors": "1.0.0",
+    "helmet": "1.0.0",
+    "validator": "1.0.0"
+  }
+}
